@@ -3,7 +3,7 @@ name = "SigmaOS-kernel-cmdline"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kernel-cmdline component"
+description = "kernel cmdline component"
 upstream = []
 
 [contract]
